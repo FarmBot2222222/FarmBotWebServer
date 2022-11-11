@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 sender_email = "farmbotstatus@yahoo.com"
-receiver_email = "johantestbot@gmail.com"
+receiver_email = ""
 password = input("Type your password and press enter:")
 
 # Create the plain-text and HTML version of your message
